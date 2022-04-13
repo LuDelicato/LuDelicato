@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @LuDelicato
 - 👀 I’m interested in gaming!
-- 🌱 I’m currently learning HTML and CSS at the moment
+- 🌱 I’m currently learning HTML, CSS & JS.
 - 💞️ I’m looking to collaborate on something in the future
 - 📫 How to reach me ...
 
